@@ -1,8 +1,6 @@
 Git is easy. Git is fun. Thanks Linus!
 * Avro
-
 * Harrier
-
 * Hornet
 # Introduction
 During the next year you will learn the fundamentals of data science.Surviving the nine courses which make up the [Data Science
@@ -16,7 +14,6 @@ data into a presentable report,
 techniques for yourself, and
 3. an appreciation of the mathematics & statistics involved in
 data science.
-
 ## Core Courses
 The courses comprising the Data Science Specialization are:
 * Data Scientist's Toolbox
